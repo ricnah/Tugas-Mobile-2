@@ -1,4 +1,4 @@
-# tugas04
+# Kelompok 2 - Profil Mahasiswa
 
 click here!
 - [Laporan Tugas PDF File](https://github.com/ricnah/Tugas-Mobile-2/blob/main/Kelompok%202%20-%20Aplikasi%20Profil%20Mahasiswa.pdf)
