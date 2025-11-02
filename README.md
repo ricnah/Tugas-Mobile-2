@@ -1,16 +1,12 @@
 # tugas04
 
-A new Flutter project.
+- [Laporan Tugas PDF File](https://github.com/ricnah/Tugas-Mobile-2/blob/main/Kelompok%202%20-%20Aplikasi%20Profil%20Mahasiswa.pdf)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 1. Sufyaan Nafiis (221080200059)
+ 2. Rafa Azka (221080200068)
+ 3. Egha Arya Affandi (221080200077)
+ 4. M. Nur Rifqi Baharis (221080200096)
+ 5. Aprelareza Agung (221080200097)
+ 6. Ricki Maulana A (221080200127)
+ 7. Elang Rezky P (221080200133)
+ 8. Fuad Fakhruddin (221080200159)
